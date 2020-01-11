@@ -1,11 +1,9 @@
 body {
   font-family: "Gentium Book Basic", serif;
   padding-top: 30px;
- 
-  
 }
 .card-img {
-  width: auto;
+  width: 200px;
   float: left;
   padding-top: 20px;
 }
@@ -15,31 +13,20 @@ body {
 
 .jumbotron {
   position: relative;
-  
- 
-  
-
 }
 
 footer {
- height: 25px;
+  height: 25px;
 }
 
 .container {
   padding-top: 30px;
   padding-bottom: 3px;
-
-  
 }
 
 p {
   margin-left: 10px;
-  
 }
-a{
-
+a {
   text-decoration: none;
 }
-
-
-
